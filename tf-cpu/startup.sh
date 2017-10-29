@@ -4,3 +4,4 @@ sudo sh get-docker.sh
 sudo docker run hello-world
 curl -O -s https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/tools/docker/jupyter_notebook_config.py
 curl -O -s https://raw.githubusercontent.com/tensorflow/tensorflow/r1.4/tensorflow/tools/docker/run_jupyter.sh
+curl -O -s https://raw.githubusercontent.com/haowu80s/gcloud-script/master/tf-cpu/Dockerfile.devel -o Dockerfile
